@@ -1,24 +1,6 @@
-# README
+# GOSSIP
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+Dans ce programme des User crée des Gossip, les Gossip vont avoir 1 ou plusieur Tag et chaque Tag peut etre associé avec plusieur Gossip grace a la table Jointab.
+Chaque User peut envoyer un PrivateMessage à un autre User
+Il y aura donc un recipient et un sender.   
 
-Things you may want to cover:
-
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
